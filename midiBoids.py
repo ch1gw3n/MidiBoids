@@ -14,7 +14,6 @@
 # Output:  Cool stuff
 #
 # Notes:   Adjusted original comments for aesthetic purposes.
-#          You also mispelled Threshold.
   
 from gui import *
 from math import *
