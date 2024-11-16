@@ -30,4 +30,5 @@ The boids’ attraction point updates according to a key’s pitch and volume, t
 Audio frequency and separation knob work in conjunction → higher separation = higher frequency
 Keys can also change frequency → higher pitch = higher frequency.
 
-Contact Me: c.n91702@gmail.com
+## Contact Me
+Email: c.n91702@gmail.com
